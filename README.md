@@ -112,7 +112,7 @@ Execute the program
 
 ```
 
-# OUPUT
+# OUTPUT:
 ![output](/Screenshot_20230109_091010.png)
 
 ## Result:
